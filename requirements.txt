@@ -1,4 +1,4 @@
-accelerate==2.3.0+3.g5b05d19
+accelerate==1.0.1
 alabaster==0.7.9
 anaconda-clean==1.0
 anaconda-client==1.5.1
@@ -150,7 +150,7 @@ requests==2.11.1
 requests-oauthlib==0.8.0
 rlp==0.4.7
 rope==0.9.4
-ruamel-yaml===-VERSION
+ruamel-yaml==0.17.31
 scikit-image==0.12.3
 scikit-learn==0.17.1
 scipy==0.18.1
